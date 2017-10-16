@@ -1,0 +1,9 @@
+if TARGET_SKW93
+
+config SYS_BOARD
+	default "skw93"
+
+config SYS_CONFIG_NAME
+	default "skw93"
+
+endif
